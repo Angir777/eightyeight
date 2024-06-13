@@ -2,8 +2,10 @@
 
 WordPress WooCommerce All Theme Environment
 
+Front page:
 ![My Image](https://github.com/Angir777/eightyeight/blob/main/wp-content/themes/eightyeight/settings/screen-front-page.jpg)
 
+Shop page:
 ![My Image](https://github.com/Angir777/eightyeight/blob/main/wp-content/themes/eightyeight/settings/screen-shop-page.jpg)
 
 Login: admin
