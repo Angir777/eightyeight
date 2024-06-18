@@ -20,7 +20,7 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'wp2' );
+define( 'DB_NAME', 'eightyeight-instalation' );
 
 /** Database username */
 define( 'DB_USER', 'root' );
@@ -94,3 +94,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 /** Sets up WordPress vars and included files. */
 require_once ABSPATH . 'wp-settings.php';
+
+// URL
+define('WP_HOME', 'http://localhost/eightyeight-instalation/');
+define('WP_SITEURL', 'http://localhost/eightyeight-instalation/');
